@@ -1,7 +1,20 @@
 body{
   padding-top:80px;
   word-wrap:break-word;
+  background-color: pink;
 }
 img{
   height: 200px;
+}
+
+.backgroundImage{
+  background-image: url(img/background.jpg);
+}
+
+.well, .jumbotron{
+  background-color: rgb(253,241,229);
+}
+
+ul{
+  list-style-type: none;
 }
